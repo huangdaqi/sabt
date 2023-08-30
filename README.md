@@ -1,2 +1,2 @@
-# sabt
+# sbta
 soul bound
